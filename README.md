@@ -1,2 +1,2 @@
 # PMP
-a note about PMP with logseq
+a note of PMP which write with logseq
