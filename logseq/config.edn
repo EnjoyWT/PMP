@@ -200,7 +200,7 @@
 
  :ref/linked-references-collapsed-threshold 50
 
- :favorites ["首页" "How to take dummy notes?"]
+ :favorites ("首页" "记忆卡分类" "How to take dummy notes?")
  :journal/page-title-format "yyyy年MM月dd日"
 
  ;; any number between 0 and 1 (the greater it is the faster the changes of the next-interval of card reviews) (default 0.5)
